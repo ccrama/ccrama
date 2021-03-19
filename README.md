@@ -1,8 +1,8 @@
-### 👋 Howdy!
+### 👋  Howdy!
 
-I'm a software engineer based in Austin, Texas, and I make an open-source Reddit app called Slide. 
+I'm a software engineer based in Austin, Texas, and I make an open-source Reddit app called Slide.
 
-
+I'm currently developing full-stack web applications and probably brewing some coffee... 
 <!--
 **ccrama/ccrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
