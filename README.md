@@ -4,7 +4,6 @@ I'm a software engineer based in Austin, Texas, and I make an open-source Reddit
 
 I'm currently developing full-stack web applications and probably brewing some coffee... 
 
-![Follow me](https://github.com/users/follow?target=ccrama)
 <!--
 **ccrama/ccrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
