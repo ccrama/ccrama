@@ -1,8 +1,6 @@
-### 👋  Howdy!
+I'm a software engineer @ H-E-B Digital and I make an open-source apps.
 
-I'm a software engineer @T-Mobile and I make an open-source apps.
-
-Currently studying Computer Science at UT Austin🤘
+Currently studying Computer Science at UT Austin
 
 <!--
 **ccrama/ccrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
