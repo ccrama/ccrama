@@ -1,6 +1,6 @@
-I'm a software engineer @ H-E-B Digital and I make an open-source apps.
+I'm a software engineer @ [HEB Digital](https://careers.heb.com/) and I make an open-source apps.
 
-Currently studying Computer Science at UT Austin
+Currently completing a Masters of Computer Science at UT Austin ([MSCO](https://cdso.utexas.edu/mscs))
 
 <!--
 **ccrama/ccrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
